@@ -67,7 +67,7 @@
     padding: 10px;
     border-radius: 0.75rem;
     display: grid;
-    max-width: 300px;
+    max-width: 320px;
     max-height: 500px;
     margin: 30px;  
 
@@ -78,6 +78,7 @@
     font-size: 1.3rem;
     text-align: center;
     padding: 5px;
+    line-height: 1.2;
   }
   .normal-text{
     font-family: 'Outfit', sans-serif;
